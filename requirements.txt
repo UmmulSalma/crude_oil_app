@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+darts==0.41.0
+torch
+pytorch-lightning
+joblib
+openpyxl
+matplotlib
